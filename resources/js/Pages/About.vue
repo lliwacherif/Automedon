@@ -22,20 +22,7 @@
                 </p>
             </div>
 
-            <!-- Contact -->
-            <div class="mt-12">
-                <h2 class="text-2xl font-bold text-gray-800 mb-6">Contactez-nous</h2>
-                <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
-                    <a href="tel:+21655200702" class="flex items-center space-x-2 text-lg font-medium text-indigo-600 hover:text-indigo-800 transition-colors bg-white px-6 py-3 rounded-full shadow-sm hover:shadow-md">
-                        <span>📞</span>
-                        <span>+216 55 200 702</span>
-                    </a>
-                    <a href="tel:+21655420444" class="flex items-center space-x-2 text-lg font-medium text-indigo-600 hover:text-indigo-800 transition-colors bg-white px-6 py-3 rounded-full shadow-sm hover:shadow-md">
-                        <span>📞</span>
-                        <span>+216 55 420 444</span>
-                    </a>
-                </div>
-            </div>
+
         </div>
     </div>
 </template>
