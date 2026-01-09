@@ -35,7 +35,8 @@ export function useFileUpload() {
                 });
 
             if (error) {
-                console.error('Supabase Storage Upload Error:', error);
+                console.error('Supabase Storage Upload Error (Detail):', JSON.stringify(error, null, 2));
+                alert('Upload Error: ' + (error.message || 'Unknown error')); // Proactive alert for the user
                 throw error;
             }
 
