@@ -36,8 +36,8 @@ async function handleLogout() {
                     <!-- Logo -->
                     <div class="shrink-0 flex items-center">
                         <RouterLink to="/" class="flex items-center space-x-2">
-                            <img src="/images/automedon_logo.png" alt="Logo" class="h-10 w-10 object-contain" />
-                            <span class="text-xl font-bold text-gray-800">Automedon</span>
+                            <img src="/images/gs cars logo.jpg" alt="Logo" class="h-10 w-10 object-contain" />
+                            <span class="text-xl font-bold text-gray-800">GS Cars Rent Car</span>
                         </RouterLink>
                     </div>
                     
@@ -175,8 +175,8 @@ async function handleLogout() {
                     <!-- Sidebar Header -->
                     <div class="flex items-center justify-between p-4 border-b border-gray-200">
                         <div class="flex items-center space-x-2">
-                            <img src="/images/automedon_logo.png" alt="Logo" class="h-8 w-8 object-contain" />
-                            <span class="text-lg font-bold text-gray-800">Automedon</span>
+                            <img src="/images/gs cars logo.jpg" alt="Logo" class="h-8 w-8 object-contain" />
+                            <span class="text-lg font-bold text-gray-800">GS Cars Rent Car</span>
                         </div>
                         <button 
                             @click="closeMobileMenu"
